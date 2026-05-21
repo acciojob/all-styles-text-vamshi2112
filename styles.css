@@ -3,8 +3,7 @@
 .main{
 	width:200px;
 	background-color:purple;
-	border-left:green;
-	webkit-border-top-left-radius:5px;
+	border-left:5px solid-green;
 	padding:10px;
 	
 }
