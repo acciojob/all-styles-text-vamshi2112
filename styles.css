@@ -4,7 +4,7 @@
 	width:200px;
 	background-color:purple;
 	border-left:green;
-	border-left-width:5px;
+	webkit-border-top-left-radius:5px;
 	padding:10px;
 	
 }
