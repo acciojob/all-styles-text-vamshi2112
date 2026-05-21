@@ -3,8 +3,7 @@
 .main{
 	width:200px;
 	background-color:purple;
-	border-left:green;
-	border-left-width:5px;
+	border-left:2px solid green;
 	padding:10px;
 	
 }
